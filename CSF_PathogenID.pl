@@ -5,7 +5,7 @@
 #
 # Standalone Perl Proteomics Search Engine
 #
-# Author : Priya Anand
+#
 #
 ###############################################################################
 
